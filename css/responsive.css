@@ -60,7 +60,7 @@
     padding-bottom: 20px;
   }
 
-  .col-3 {
+  .col-3 p {
     column-count: 1;
   }
 }
